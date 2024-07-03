@@ -1,0 +1,9 @@
+M
+Correct output for the current weather of the chosen city.
+The ability to save this information to a file.
+S
+The output should have the requested units. (km/h instead of m/s)
+C
+A better UI.
+W
+Information apart from what's requested.
